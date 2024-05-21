@@ -1,0 +1,29 @@
+_repo: Ole-sielun-iloinen-b-Tiituksen-pakinoita-2_73642
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kivinen, Ilmari
+    alias: Tiitus
+    birthdate: 1883
+    deathdate: 1940
+    gutenberg_agent_id: '49690'
+    url: http://www.gutenberg.org/2009/agents/49690
+    wikipedia: https://fi.wikipedia.org/wiki/Ilmari_Kivinen
+description: ''
+gutenberg_issued: '2024-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73642'
+language: fi
+pgterms:marc905: 20240512032242tiitus
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Ahjo, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '"Ole, sielun'', iloinen!" : $b Tiituksen pakinoita 2'
+url: http://www.gutenberg.org/ebooks/73642
